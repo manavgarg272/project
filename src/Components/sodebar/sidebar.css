@@ -1,0 +1,14 @@
+.sidebar {
+  height: 1000px;
+  width: 20%;
+  background-color: green;
+}
+.myButton {
+  /* margin-top: 5px; */
+  /* margin-bottom: 25px; */
+  height: 40px;
+  background-color: green;
+  margin-top: 15px;
+  margin-left: 50px;
+  color: white;
+}

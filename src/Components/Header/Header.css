@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  /* position: -webkit-sticky; Safari */
+  position: sticky;
+  top: 0;
+  background-color: green;
+  height: 80px;
+  /* flex-wrap: wrap; */
+}
